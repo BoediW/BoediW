@@ -71,7 +71,7 @@
   │                                                                     │
   │   LEVEL 67          ◆  B O E D I . E X E  ◆         Full Stack DEV │ 
   │   ───────────────────────────────────────────────────────────────── │
-  │   HEALTH    [ ████████████████████ ]  100     CLASS    Full Stack   │
+  │   HEALTH    [ ████████               ]  100     CLASS    Full Stack   │
   │   KEWARASAN   [                    ]   0      CODE    Javascript    │
   │   STAMINA   [ ████████████████████ ]  300     HOLD     HROTHGAR     │
   │                                                                     │
