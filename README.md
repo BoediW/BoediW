@@ -81,7 +81,7 @@
   │                                                                     │
   │   ◆ ACTIVE QUEST: Developing WhatsApp Bot (IN PROGRESS)            │
   │   ◇ SIDE QUEST: Pemilihan Ketua osis spenaga (COMPLETED)           │
-  │   ◇ COMPANION: Mio Discord Bot (COMPLETED)                         │
+  │   ◇ SIDE QUEST: Mio Discord Bot (COMPLETED)                         │
   │                                                                     │
   │   WEAPON    Me so Smort :P        [ DMG 85 | +45 APM ]              │
   │   SHIELD    Kopi 24/7             [ ARM 68 | No Detached HEAD ]     │
